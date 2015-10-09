@@ -1,0 +1,52 @@
+<div data-ng-swipe-left="vm.goHome()" class="main-content">
+
+    <div data-ng-include="'app/layouts/Header.html'"></div>
+    <!--include header-->
+
+    <div class="media-placeholder">
+        <img src="assets/i/top-news-icon.jpg" data-ng-src="{{vm.storyDetails.enclosure_asArray[0]._u}}" alt="img">
+    </div>
+    <!--End story image or video placeholder-->
+
+    <div class="story-container">
+        <h2 class="title" data-ng-bind-html="vm.getTrustedHtml(vm.storyDetails.title)">title</h2>
+
+        <h3 class="section-title">Top News</h3>
+        <!--End section-title-->
+
+        <!--Headline was removed from here since co-pilot asked to remove this-->
+
+        <h3 class="advertisement-title">ADVERTISEMENT</h3>
+        <!--End advertisement-title-->
+    </div>
+    <!--End story container-->
+
+    <div class="advertisement-holder" data-ng-include="'app/layouts/Advertisement.html'"></div>
+    <!--include advertisement-->
+
+
+    <div class="story-container">
+        <p class="content" data-ng-bind-html="vm.storyDetails.description.__cdata"></p>
+        <!--End headline-->
+
+        <div class="contact">{{vm.storyDetails.author}}</div>
+        <!--End .contact-->
+    </div>
+    <!--End story container-->
+
+    <div class="recommended-stories">
+        <h3>STORIES RECOMMENDED FOR YOU:</h3>
+        <ul>
+            <li data-ng-repeat="story in vm.recommenedStories track by $index">
+                <a href="javascript:">
+                    <img src="assets/i/story-icon.jpg" data-ng-src="{{story.enclosure_asArray[0]._u}}" alt="icon">
+                    <div class="desc"  data-ng-bind-html="vm.getTrustedHtml(story.title)"></div>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <!--End recommended-stories-->
+
+    <div data-ng-include="'app/layouts/Footer.html'"></div>
+    <!--include foote-->
+</div>

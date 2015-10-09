@@ -1,0 +1,32 @@
+[
+  {
+    "name":"My Account",
+    "class":"account",
+    "href":"javascript:"
+  },
+  {
+    "name":"Settings",
+    "class":"settings",
+    "href":"javascript:"
+  },
+  {
+    "name":"Pay Bill",
+    "class":"payBill",
+    "href":"javascript:"
+  },
+  {
+    "name":"Go To Store",
+    "class":"store",
+    "href":"javascript:"
+  },
+  {
+    "name":"Community",
+    "class":"community",
+    "href":"javascript:"
+  },
+  {
+    "name":"Support",
+    "class":"support",
+    "href":"javascript:"
+  }
+]

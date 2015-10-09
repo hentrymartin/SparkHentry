@@ -1,0 +1,167 @@
+<header class="home-header">
+    <div class="container">
+        <div class="login-status">
+            <span class="welcome">Welcome <a href="javascript:">{{vm.user}}</a> </span>
+            <span class="sign-in">Not you?  <a href="javascript:"  data-ng-click="vm.loginModal=true">Sign In</a> </span>
+        </div>
+        <!--End login status-->
+
+        <div class="search-holder">
+            <input type="search" class="search" placeholder="Type to Search..." ng-model="google" search-google>
+        </div>
+        <!--End search-->
+
+        <div class="row">
+            <div class="col-xs-6">
+                <a href="javascript:" class="btn"><i class="pay">icon</i> <span>PAY BILL</span></a>
+            </div>
+            <div class="col-xs-6">
+                <a href="javascript:" class="btn"><i class="account">icon</i> <span>MY ACCOUNT</span></a>
+            </div>
+        </div>
+        <!--End button row-->
+
+    </div>
+</header>
+<!--End header-->
+
+<div class="container">
+    <a href="#/weatherDetails" class="weather-home weather-widget">
+        <div class="current">
+            <span class="city">
+                <i></i>{{vm.weather.locations.location._city}}
+            </span>
+            <!--End city-->
+
+            <div class="temp clearfix">
+                <span class="count">{{vm.weather.locations.location.sfc_ob.temp_F}}</span>
+                <span class="marks">
+                    <span class="deg">&deg;</span>
+                    <span class="sign">{{vm.temparatureNotation}}</span>
+                </span>
+            </div>
+            <!--End temp-->
+        </div>
+        <!--End current-->
+
+        <div class="update">
+            <span class="status">updated {{vm.updateTime}}</span>
+            <i class="icon {{vm.assignClass(vm.weather.locations.location.sfc_ob.cld_cover)}}"></i>
+            <div class="info">
+                <span>{{vm.weather.locations.location.sfc_ob.cld_cover}}</span>
+                <span>{{vm.weather.locations.location.sfc_ob.wnd_spd_kph}} km/h</span>
+            </div>
+            <div class="info">
+                <span>{{vm.weather.locations.location.sfc_ob.dewp_F}}<span class="deg">&deg;</span>{{vm.temparatureNotation}}/ {{vm.weather.locations.location.sfc_ob.temp_F}}<span class="deg">&deg;</span>{{vm.temparatureNotation}}</span>
+            </div>
+        </div>
+        <!--End update-->
+    </a>
+    <!--End weather-->
+
+</div>
+<!--End container-->
+
+<section class="widget">
+
+    <h3><i class="app"></i>Apps Wall</h3>
+    <!--End title-->
+
+    <div class="app-holder">
+        <div class="scroller">
+            <a href="javascript:" data-ng-href="{{vm.appUrl}}{{app.packageName}}" class="app" data-ng-repeat="app in vm.apps.features">
+                <img src="assets/i/big_fish.png" data-ng-src="{{app.img}}" alt="icon">
+                <!--End thumb-->
+                <div class="desc">
+                    <span class="title">{{app.title}}</span>
+                    <!--End title-->
+                    <div class="rating-holder">
+                        <div data-rating data-ng-model="app.rating" data-max="5" data-state-on="'star'" data-readonly="true" data-state-off="'star-empty'"></div>
+                    </div>
+                    <!--End ratings-->
+                    <span class="type">{{app.desc}}</span>
+                    <!--End desc-->
+                </div>
+                <!--End desc-->
+            </a>
+        </div>
+    </div>
+    <!--End app-holder-->
+</section>
+<!--End section-->
+
+<section class="widget">
+
+    <h3><i class="latest-news"></i>Latest News</h3>
+    <!--End title-->
+
+    <div class="latest-news-holder">
+        <div class="scroller">
+            <a href="javascript:" data-ng-href="{{app.link}}" target="_blank" class="news" data-ng-repeat="app in vm.latestNews">
+                <img data-ng-src="{{app.enclosure._u}}" alt="icon">
+                <!--End thumb-->
+                <div class="img-overlay">
+                    <span class="title">{{app.title}}</span>
+                </div>
+                <!--End desc-->
+            </a>
+        </div>
+    </div>
+    <!--End app-holder-->
+</section>
+<!--End section-->
+
+<section class="widget">
+
+    <h3><i class="news-feed"></i>NewsFeed</h3>
+    <!--End title-->
+
+    <div class="news-feed-holder">
+        <ul>
+            <li data-ng-repeat="news in vm.newsFeed.news_feeds.news">
+                <a href="javascript:" data-ng-href="#/newsDetails/{{news.id}}">
+                    <img src="assets/i/news-feed-icon-1.jpg" data-ng-src="{{news.icon}}" alt="icon">
+                    <div class="desc">
+                        <h5>{{news.name}}</h5>
+                        <span>{{news.shortDesc}}</span>
+                        <i class="{{news.status}}"></i>
+                    </div>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <!--End app-holder-->
+
+    <a href="javascript:" class="add-site">
+        Add Site
+        <span>Add your personal content, sites, links here</span>
+    </a>
+    <!--End add site-->
+</section>
+<!--End section-->
+
+<section class="widget spark">
+
+    <h3><i class="spark"></i>MY SPARK</h3>
+    <!--End title-->
+
+    <div class="spark-holder clearfix">
+        <div class="spark" data-ng-repeat="spark in vm.sparks">
+            <a href="javascript:" target="_blank" data-ng-href="{{spark.href}}"><i class="{{spark.class}}"></i>{{spark.name}}</a>
+        </div>
+    </div>
+    <!--End spark-holder-->
+</section>
+<!--End section-->
+
+<div data-ng-include="'app/layouts/Footer.html'"></div>
+<!--include foote-->
+
+<!--<div class="overlay" data-ng-show="vm.loginModal" data-ng-click="vm.loginModal=false">-->
+
+<!--</div>-->
+<!--&lt;!&ndash;End overlay&ndash;&gt;-->
+<div class="login-modal {{vm.loginModal?'show':''}}">
+
+</div>
+<!--End login modal-->

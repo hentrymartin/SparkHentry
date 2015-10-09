@@ -1,0 +1,63 @@
+<!doctype html>
+<html data-ng-app="app">
+<head>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0" >
+
+    <!-- CSS Style -->
+    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/screen.css" rel="stylesheet" type="text/css">
+
+    <title>Spark Mobile</title>
+
+</head>
+
+<body>
+
+    <div class="view-frame" data-ng-view></div>
+    <!-- End .view-frame -->
+
+
+    <!--External javascript:-->
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <script src="bower_components/angularjs/angular.min.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+    <script src="bower_components/angular-sanitize/angular-sanitize.min.js"></script>
+    <script src="bower_components/angular-touch/angular-touch.js"></script>
+    <script src="bower_components/angular-animate/angular-animate.min.js"></script>
+    <script src="bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js"></script>
+    <script src="bower_components/x2js-v1.0.11/x2js-v1.0.11/xml2json.js"></script>
+
+    <!-- Google Search APi-->
+    <script src="https://www.google.com/jsapi"></script>
+
+    <script src="app/app.js"></script>
+    <script src="app/app.config.js"></script>
+
+    <script src="app/home/home.controller.js"></script>
+    <script src="app/home/home.route.js"></script>
+    <script src="app/home/home.sparkService.js"></script>
+    <script src="app/home/home.weather.service.js"></script>
+    <script src="app/home/home.app.service.js"></script>
+    <script src="app/home/home.newsFeed.service.js"></script>
+    <script src="app/home/home.googleSearch.directive.js"></script>
+
+    <script src="app/weatherDetails/weather.controller.js"></script>
+    <script src="app/weatherDetails/weather.route.js"></script>
+
+    <script src="app/newsSourceDetails/newsSource.controller.js"></script>
+    <script src="app/newsSourceDetails/newsSource.route.js"></script>
+
+    <script src="app/storyDetails/storyDetails.controller.js"></script>
+    <script src="app/storyDetails/storyDetails.route.js"></script>
+
+    <script src="app/faq/FAQ.controller.js"></script>
+    <script src="app/faq/FAQ.route.js"></script>
+    <script src="app/faq/FAQ.service.js"></script>
+
+</body>
+</html>

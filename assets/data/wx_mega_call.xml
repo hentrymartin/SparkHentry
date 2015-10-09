@@ -1,0 +1,1303 @@
+<locations>
+	<units>all</units>
+	<language>en</language>
+	<q>R</q>
+	<location lat="41.43" lon="-82.22" city="Amherst" region="OH" country="United States of America" zipcode="44053">
+		<sfc_ob>
+			<stn_lat>41.35</stn_lat>
+			<stn_lon>-82.183</stn_lon>
+			<ob_time>2015-05-19 10:53:00</ob_time>
+			<day_of_week_local>Tuesday</day_of_week_local>
+			<temp_C>14</temp_C>
+			<temp_F>57</temp_F>
+			<dewp_F>45</dewp_F>
+			<dewp_C>7</dewp_C>
+			<rh_pct>64</rh_pct>
+			<apparent_temp_F>57</apparent_temp_F>
+			<apparent_temp_C>14</apparent_temp_C>
+			<wnd_dir>NW</wnd_dir>
+			<wnd_spd_mph>18</wnd_spd_mph>
+			<wnd_spd_kph>30</wnd_spd_kph>
+			<press_in>30.07</press_in>
+			<press_mb>1018.4</press_mb>
+			<pressure_change>Rising</pressure_change>
+			<wx>Mostly cloudy</wx>
+			<wx_code>103</wx_code>
+			<cld_cover>Mostly cloudy</cld_cover>
+			<day_night>day</day_night>
+			<visibility_ft>52800</visibility_ft>
+			<visibility_m>16093</visibility_m>
+			<moon_phase>Waxing Crescent Moon</moon_phase>
+			<sunrise_local>06:04 am</sunrise_local>
+			<sunset_local>08:46 pm</sunset_local>
+			<precip_1hr_mm>0</precip_1hr_mm>
+			<precip_24hr_mm>0.025</precip_24hr_mm>
+			<precip_1hr_in>0</precip_1hr_in>
+			<precip_24hr_in>0</precip_24hr_in>
+		</sfc_ob>
+		<daily_summaries>
+			<daily_summary>
+				<summary_date>5/19/2015</summary_date>
+				<day_of_week>Tuesday</day_of_week>
+				<max_temp_F>60</max_temp_F>
+				<max_temp_C>16</max_temp_C>
+				<min_temp_F>51</min_temp_F>
+				<min_temp_C>11</min_temp_C>
+				<wnd_spd_mph>14</wnd_spd_mph>
+				<wnd_spd_kph>23</wnd_spd_kph>
+				<wnd_gust_mph>22</wnd_gust_mph>
+				<wnd_gust_kph>36</wnd_gust_kph>
+				<wnd_dir>WNW</wnd_dir>
+				<pop>0</pop>
+				<wx>Mostly cloudy</wx>
+				<wx_code>103</wx_code>
+				<text_description>Mostly cloudy</text_description>
+				<sunrise_local>06:05 am</sunrise_local>
+				<sunset_local>08:45 pm</sunset_local>
+				<moon_phase>Waxing Crescent Moon</moon_phase>
+				<early_morning_min_temp_F/>
+				<early_morning_min_temp_C/>
+				<early_morning_mode_wx>Clear</early_morning_mode_wx>
+				<early_morning_pop/>
+				<overnight_min_temp_F>42</overnight_min_temp_F>
+				<overnight_min_temp_C>6</overnight_min_temp_C>
+				<overnight_mode_wx>Clear</overnight_mode_wx>
+				<overnight_pop>0</overnight_pop>
+			</daily_summary>
+			<daily_summary>
+				<summary_date>5/20/2015</summary_date>
+				<day_of_week>Wednesday</day_of_week>
+				<max_temp_F>57</max_temp_F>
+				<max_temp_C>14</max_temp_C>
+				<min_temp_F>42</min_temp_F>
+				<min_temp_C>6</min_temp_C>
+				<wnd_spd_mph>9</wnd_spd_mph>
+				<wnd_spd_kph>14</wnd_spd_kph>
+				<wnd_gust_mph>20</wnd_gust_mph>
+				<wnd_gust_kph>32</wnd_gust_kph>
+				<wnd_dir>N</wnd_dir>
+				<pop>0</pop>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<text_description>Partly cloudy</text_description>
+				<sunrise_local>06:04 am</sunrise_local>
+				<sunset_local>08:46 pm</sunset_local>
+				<moon_phase>Waxing Crescent Moon</moon_phase>
+				<early_morning_min_temp_F>42</early_morning_min_temp_F>
+				<early_morning_min_temp_C>6</early_morning_min_temp_C>
+				<early_morning_mode_wx>Partly cloudy</early_morning_mode_wx>
+				<early_morning_pop>0</early_morning_pop>
+				<overnight_min_temp_F>46</overnight_min_temp_F>
+				<overnight_min_temp_C>8</overnight_min_temp_C>
+				<overnight_mode_wx>Partly cloudy</overnight_mode_wx>
+				<overnight_pop>20</overnight_pop>
+			</daily_summary>
+			<daily_summary>
+				<summary_date>5/21/2015</summary_date>
+				<day_of_week>Thursday</day_of_week>
+				<max_temp_F>66</max_temp_F>
+				<max_temp_C>19</max_temp_C>
+				<min_temp_F>46</min_temp_F>
+				<min_temp_C>8</min_temp_C>
+				<wnd_spd_mph>7</wnd_spd_mph>
+				<wnd_spd_kph>12</wnd_spd_kph>
+				<wnd_gust_mph>12</wnd_gust_mph>
+				<wnd_gust_kph>19</wnd_gust_kph>
+				<wnd_dir>WNW</wnd_dir>
+				<pop>20</pop>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<text_description>Partly cloudy</text_description>
+				<sunrise_local>06:03 am</sunrise_local>
+				<sunset_local>08:47 pm</sunset_local>
+				<moon_phase>Waxing Crescent Moon</moon_phase>
+				<early_morning_min_temp_F>46</early_morning_min_temp_F>
+				<early_morning_min_temp_C>8</early_morning_min_temp_C>
+				<early_morning_mode_wx>Mostly cloudy</early_morning_mode_wx>
+				<early_morning_pop>20</early_morning_pop>
+				<overnight_min_temp_F>48</overnight_min_temp_F>
+				<overnight_min_temp_C>9</overnight_min_temp_C>
+				<overnight_mode_wx>Cloudy</overnight_mode_wx>
+				<overnight_pop>0</overnight_pop>
+			</daily_summary>
+			<daily_summary>
+				<summary_date>5/22/2015</summary_date>
+				<day_of_week>Friday</day_of_week>
+				<max_temp_F>65</max_temp_F>
+				<max_temp_C>19</max_temp_C>
+				<min_temp_F>48</min_temp_F>
+				<min_temp_C>9</min_temp_C>
+				<wnd_spd_mph>7</wnd_spd_mph>
+				<wnd_spd_kph>12</wnd_spd_kph>
+				<wnd_gust_mph>11</wnd_gust_mph>
+				<wnd_gust_kph>17</wnd_gust_kph>
+				<wnd_dir>NNE</wnd_dir>
+				<pop>0</pop>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<text_description>Partly cloudy</text_description>
+				<sunrise_local>06:02 am</sunrise_local>
+				<sunset_local>08:48 pm</sunset_local>
+				<moon_phase>Waxing Crescent Moon</moon_phase>
+				<early_morning_min_temp_F>48</early_morning_min_temp_F>
+				<early_morning_min_temp_C>9</early_morning_min_temp_C>
+				<early_morning_mode_wx>Mostly clear</early_morning_mode_wx>
+				<early_morning_pop>0</early_morning_pop>
+				<overnight_min_temp_F>46</overnight_min_temp_F>
+				<overnight_min_temp_C>8</overnight_min_temp_C>
+				<overnight_mode_wx>Mostly clear</overnight_mode_wx>
+				<overnight_pop>0</overnight_pop>
+			</daily_summary>
+			<daily_summary>
+				<summary_date>5/23/2015</summary_date>
+				<day_of_week>Saturday</day_of_week>
+				<max_temp_F>67</max_temp_F>
+				<max_temp_C>20</max_temp_C>
+				<min_temp_F>46</min_temp_F>
+				<min_temp_C>8</min_temp_C>
+				<wnd_spd_mph>5</wnd_spd_mph>
+				<wnd_spd_kph>8</wnd_spd_kph>
+				<wnd_gust_mph>8</wnd_gust_mph>
+				<wnd_gust_kph>12</wnd_gust_kph>
+				<wnd_dir>ENE</wnd_dir>
+				<pop>0</pop>
+				<wx>Mostly clear</wx>
+				<wx_code>101</wx_code>
+				<text_description>Mostly clear</text_description>
+				<sunrise_local>06:02 am</sunrise_local>
+				<sunset_local>08:49 pm</sunset_local>
+				<moon_phase>Waxing Crescent Moon</moon_phase>
+				<early_morning_min_temp_F>46</early_morning_min_temp_F>
+				<early_morning_min_temp_C>8</early_morning_min_temp_C>
+				<early_morning_mode_wx>Mostly clear</early_morning_mode_wx>
+				<early_morning_pop>0</early_morning_pop>
+				<overnight_min_temp_F>56</overnight_min_temp_F>
+				<overnight_min_temp_C>13</overnight_min_temp_C>
+				<overnight_mode_wx>Mostly clear</overnight_mode_wx>
+				<overnight_pop>40</overnight_pop>
+			</daily_summary>
+			<daily_summary>
+				<summary_date>5/24/2015</summary_date>
+				<day_of_week>Sunday</day_of_week>
+				<max_temp_F>74</max_temp_F>
+				<max_temp_C>24</max_temp_C>
+				<min_temp_F>56</min_temp_F>
+				<min_temp_C>13</min_temp_C>
+				<wnd_spd_mph>7</wnd_spd_mph>
+				<wnd_spd_kph>12</wnd_spd_kph>
+				<wnd_gust_mph>11</wnd_gust_mph>
+				<wnd_gust_kph>17</wnd_gust_kph>
+				<wnd_dir>S</wnd_dir>
+				<pop>40</pop>
+				<wx>Thunderstorms</wx>
+				<wx_code>95</wx_code>
+				<text_description>Thunderstorms</text_description>
+				<sunrise_local>06:01 am</sunrise_local>
+				<sunset_local>08:50 pm</sunset_local>
+				<moon_phase>Waxing Crescent Moon</moon_phase>
+				<early_morning_min_temp_F>56</early_morning_min_temp_F>
+				<early_morning_min_temp_C>13</early_morning_min_temp_C>
+				<early_morning_mode_wx>Thunderstorms</early_morning_mode_wx>
+				<early_morning_pop>40</early_morning_pop>
+				<overnight_min_temp_F>62</overnight_min_temp_F>
+				<overnight_min_temp_C>17</overnight_min_temp_C>
+				<overnight_mode_wx>Thunderstorms</overnight_mode_wx>
+				<overnight_pop>40</overnight_pop>
+			</daily_summary>
+			<daily_summary>
+				<summary_date>5/25/2015</summary_date>
+				<day_of_week>Monday</day_of_week>
+				<max_temp_F>76</max_temp_F>
+				<max_temp_C>25</max_temp_C>
+				<min_temp_F>62</min_temp_F>
+				<min_temp_C>17</min_temp_C>
+				<wnd_spd_mph>11</wnd_spd_mph>
+				<wnd_spd_kph>17</wnd_spd_kph>
+				<wnd_gust_mph>14</wnd_gust_mph>
+				<wnd_gust_kph>22</wnd_gust_kph>
+				<wnd_dir>SSW</wnd_dir>
+				<pop>60</pop>
+				<wx>Thunderstorms</wx>
+				<wx_code>95</wx_code>
+				<text_description>Thunderstorms</text_description>
+				<sunrise_local>06:00 am</sunrise_local>
+				<sunset_local>08:50 pm</sunset_local>
+				<moon_phase>Quarter Moon</moon_phase>
+				<early_morning_min_temp_F>62</early_morning_min_temp_F>
+				<early_morning_min_temp_C>17</early_morning_min_temp_C>
+				<early_morning_mode_wx>Thunderstorms</early_morning_mode_wx>
+				<early_morning_pop>40</early_morning_pop>
+				<overnight_min_temp_F>65</overnight_min_temp_F>
+				<overnight_min_temp_C>18</overnight_min_temp_C>
+				<overnight_mode_wx>Rain showers</overnight_mode_wx>
+				<overnight_pop>50</overnight_pop>
+			</daily_summary>
+			<daily_summary>
+				<summary_date>5/26/2015</summary_date>
+				<day_of_week>Tuesday</day_of_week>
+				<max_temp_F>78</max_temp_F>
+				<max_temp_C>26</max_temp_C>
+				<min_temp_F>65</min_temp_F>
+				<min_temp_C>18</min_temp_C>
+				<wnd_spd_mph>12</wnd_spd_mph>
+				<wnd_spd_kph>19</wnd_spd_kph>
+				<wnd_gust_mph>33</wnd_gust_mph>
+				<wnd_gust_kph>53</wnd_gust_kph>
+				<wnd_dir>WSW</wnd_dir>
+				<pop>50</pop>
+				<wx>Rain showers</wx>
+				<wx_code>80</wx_code>
+				<text_description>Rain showers</text_description>
+				<sunrise_local>06:00 am</sunrise_local>
+				<sunset_local>08:51 pm</sunset_local>
+				<moon_phase>Waxing Gibbous Moon</moon_phase>
+				<early_morning_min_temp_F>65</early_morning_min_temp_F>
+				<early_morning_min_temp_C>18</early_morning_min_temp_C>
+				<early_morning_mode_wx>Rain showers</early_morning_mode_wx>
+				<early_morning_pop>50</early_morning_pop>
+				<overnight_min_temp_F>65</overnight_min_temp_F>
+				<overnight_min_temp_C>19</overnight_min_temp_C>
+				<overnight_mode_wx>Rain showers</overnight_mode_wx>
+				<overnight_pop>40</overnight_pop>
+			</daily_summary>
+			<daily_summary>
+				<summary_date>5/27/2015</summary_date>
+				<day_of_week>Wednesday</day_of_week>
+				<max_temp_F>79</max_temp_F>
+				<max_temp_C>26</max_temp_C>
+				<min_temp_F>65</min_temp_F>
+				<min_temp_C>19</min_temp_C>
+				<wnd_spd_mph>9</wnd_spd_mph>
+				<wnd_spd_kph>14</wnd_spd_kph>
+				<wnd_gust_mph>18</wnd_gust_mph>
+				<wnd_gust_kph>30</wnd_gust_kph>
+				<wnd_dir>SW</wnd_dir>
+				<pop>50</pop>
+				<wx>Rain showers</wx>
+				<wx_code>80</wx_code>
+				<text_description>Rain showers</text_description>
+				<sunrise_local>05:59 am</sunrise_local>
+				<sunset_local>08:52 pm</sunset_local>
+				<moon_phase>Waxing Gibbous Moon</moon_phase>
+				<early_morning_min_temp_F>65</early_morning_min_temp_F>
+				<early_morning_min_temp_C>19</early_morning_min_temp_C>
+				<early_morning_mode_wx>Rain showers</early_morning_mode_wx>
+				<early_morning_pop>40</early_morning_pop>
+				<overnight_min_temp_F>65</overnight_min_temp_F>
+				<overnight_min_temp_C>18</overnight_min_temp_C>
+				<overnight_mode_wx>Rain showers</overnight_mode_wx>
+				<overnight_pop>50</overnight_pop>
+			</daily_summary>
+			<daily_summary>
+				<summary_date>5/28/2015</summary_date>
+				<day_of_week>Thursday</day_of_week>
+				<max_temp_F>84</max_temp_F>
+				<max_temp_C>29</max_temp_C>
+				<min_temp_F>57</min_temp_F>
+				<min_temp_C>14</min_temp_C>
+				<wnd_spd_mph>9</wnd_spd_mph>
+				<wnd_spd_kph>14</wnd_spd_kph>
+				<wnd_gust_mph>26</wnd_gust_mph>
+				<wnd_gust_kph>41</wnd_gust_kph>
+				<wnd_dir>SE</wnd_dir>
+				<pop>50</pop>
+				<wx>Rain showers</wx>
+				<wx_code>80</wx_code>
+				<text_description>Rain showers</text_description>
+				<sunrise_local>05:58 am</sunrise_local>
+				<sunset_local>08:53 pm</sunset_local>
+				<moon_phase>Waxing Gibbous Moon</moon_phase>
+				<early_morning_min_temp_F>65</early_morning_min_temp_F>
+				<early_morning_min_temp_C>18</early_morning_min_temp_C>
+				<early_morning_mode_wx>Rain showers</early_morning_mode_wx>
+				<early_morning_pop>50</early_morning_pop>
+				<overnight_min_temp_F>53</overnight_min_temp_F>
+				<overnight_min_temp_C>11</overnight_min_temp_C>
+				<overnight_mode_wx>Rain showers</overnight_mode_wx>
+				<overnight_pop>30</overnight_pop>
+			</daily_summary>
+		</daily_summaries>
+		<hourly_summaries>
+			<hourly_summary>
+				<day_of_week_local>Tuesday</day_of_week_local>
+				<time_local>2015-05-19 12:00:00</time_local>
+				<temp_C>15</temp_C>
+				<dewp_C>6</dewp_C>
+				<app_temp_C>15</app_temp_C>
+				<temp_F>58</temp_F>
+				<dewp_F>43</dewp_F>
+				<app_temp_F>58</app_temp_F>
+				<rh_pct>56</rh_pct>
+				<press_in>30.08</press_in>
+				<press_mb>1018.7</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>WNW</wnd_dir>
+				<wnd_spd_kph>26</wnd_spd_kph>
+				<wnd_spd_mph>16</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Tuesday</day_of_week_local>
+				<time_local>2015-05-19 13:00:00</time_local>
+				<temp_C>14</temp_C>
+				<dewp_C>6</dewp_C>
+				<app_temp_C>14</app_temp_C>
+				<temp_F>58</temp_F>
+				<dewp_F>42</dewp_F>
+				<app_temp_F>58</app_temp_F>
+				<rh_pct>55</rh_pct>
+				<press_in>30.09</press_in>
+				<press_mb>1018.8</press_mb>
+				<wx>Mostly cloudy</wx>
+				<wx_code>103</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>WNW</wnd_dir>
+				<wnd_spd_kph>26</wnd_spd_kph>
+				<wnd_spd_mph>16</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Tuesday</day_of_week_local>
+				<time_local>2015-05-19 14:00:00</time_local>
+				<temp_C>15</temp_C>
+				<dewp_C>5</dewp_C>
+				<app_temp_C>15</app_temp_C>
+				<temp_F>59</temp_F>
+				<dewp_F>41</dewp_F>
+				<app_temp_F>59</app_temp_F>
+				<rh_pct>50</rh_pct>
+				<press_in>30.09</press_in>
+				<press_mb>1018.8</press_mb>
+				<wx>Cloudy</wx>
+				<wx_code>104</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>WNW</wnd_dir>
+				<wnd_spd_kph>26</wnd_spd_kph>
+				<wnd_spd_mph>16</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Tuesday</day_of_week_local>
+				<time_local>2015-05-19 15:00:00</time_local>
+				<temp_C>16</temp_C>
+				<dewp_C>5</dewp_C>
+				<app_temp_C>16</app_temp_C>
+				<temp_F>60</temp_F>
+				<dewp_F>41</dewp_F>
+				<app_temp_F>60</app_temp_F>
+				<rh_pct>47</rh_pct>
+				<press_in>30.08</press_in>
+				<press_mb>1018.6</press_mb>
+				<wx>Cloudy</wx>
+				<wx_code>104</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>WNW</wnd_dir>
+				<wnd_spd_kph>26</wnd_spd_kph>
+				<wnd_spd_mph>16</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Tuesday</day_of_week_local>
+				<time_local>2015-05-19 16:00:00</time_local>
+				<temp_C>16</temp_C>
+				<dewp_C>5</dewp_C>
+				<app_temp_C>16</app_temp_C>
+				<temp_F>60</temp_F>
+				<dewp_F>41</dewp_F>
+				<app_temp_F>60</app_temp_F>
+				<rh_pct>49</rh_pct>
+				<press_in>30.07</press_in>
+				<press_mb>1018.3</press_mb>
+				<wx>Mostly cloudy</wx>
+				<wx_code>103</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>WNW</wnd_dir>
+				<wnd_spd_kph>24</wnd_spd_kph>
+				<wnd_spd_mph>15</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Tuesday</day_of_week_local>
+				<time_local>2015-05-19 17:00:00</time_local>
+				<temp_C>16</temp_C>
+				<dewp_C>5</dewp_C>
+				<app_temp_C>16</app_temp_C>
+				<temp_F>60</temp_F>
+				<dewp_F>41</dewp_F>
+				<app_temp_F>60</app_temp_F>
+				<rh_pct>48</rh_pct>
+				<press_in>30.06</press_in>
+				<press_mb>1018.1</press_mb>
+				<wx>Mostly cloudy</wx>
+				<wx_code>103</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>WNW</wnd_dir>
+				<wnd_spd_kph>23</wnd_spd_kph>
+				<wnd_spd_mph>14</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Tuesday</day_of_week_local>
+				<time_local>2015-05-19 18:00:00</time_local>
+				<temp_C>16</temp_C>
+				<dewp_C>5</dewp_C>
+				<app_temp_C>16</app_temp_C>
+				<temp_F>60</temp_F>
+				<dewp_F>41</dewp_F>
+				<app_temp_F>60</app_temp_F>
+				<rh_pct>49</rh_pct>
+				<press_in>30.06</press_in>
+				<press_mb>1017.8</press_mb>
+				<wx>Mostly cloudy</wx>
+				<wx_code>103</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>WNW</wnd_dir>
+				<wnd_spd_kph>23</wnd_spd_kph>
+				<wnd_spd_mph>14</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Tuesday</day_of_week_local>
+				<time_local>2015-05-19 19:00:00</time_local>
+				<temp_C>15</temp_C>
+				<dewp_C>5</dewp_C>
+				<app_temp_C>15</app_temp_C>
+				<temp_F>59</temp_F>
+				<dewp_F>41</dewp_F>
+				<app_temp_F>59</app_temp_F>
+				<rh_pct>51</rh_pct>
+				<press_in>30.05</press_in>
+				<press_mb>1017.7</press_mb>
+				<wx>Mostly cloudy</wx>
+				<wx_code>103</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>WNW</wnd_dir>
+				<wnd_spd_kph>20</wnd_spd_kph>
+				<wnd_spd_mph>13</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Tuesday</day_of_week_local>
+				<time_local>2015-05-19 20:00:00</time_local>
+				<temp_C>15</temp_C>
+				<dewp_C>5</dewp_C>
+				<app_temp_C>15</app_temp_C>
+				<temp_F>59</temp_F>
+				<dewp_F>41</dewp_F>
+				<app_temp_F>59</app_temp_F>
+				<rh_pct>51</rh_pct>
+				<press_in>30.05</press_in>
+				<press_mb>1017.7</press_mb>
+				<wx>Mostly cloudy</wx>
+				<wx_code>103</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>WNW</wnd_dir>
+				<wnd_spd_kph>20</wnd_spd_kph>
+				<wnd_spd_mph>13</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Tuesday</day_of_week_local>
+				<time_local>2015-05-19 21:00:00</time_local>
+				<temp_C>13</temp_C>
+				<dewp_C>5</dewp_C>
+				<app_temp_C>13</app_temp_C>
+				<temp_F>56</temp_F>
+				<dewp_F>41</dewp_F>
+				<app_temp_F>56</app_temp_F>
+				<rh_pct>57</rh_pct>
+				<press_in>30.06</press_in>
+				<press_mb>1018.1</press_mb>
+				<wx>Mostly cloudy</wx>
+				<wx_code>103</wx_code>
+				<day_night>night</day_night>
+				<pop>0</pop>
+				<wnd_dir>WNW</wnd_dir>
+				<wnd_spd_kph>20</wnd_spd_kph>
+				<wnd_spd_mph>13</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Tuesday</day_of_week_local>
+				<time_local>2015-05-19 22:00:00</time_local>
+				<temp_C>12</temp_C>
+				<dewp_C>5</dewp_C>
+				<app_temp_C>12</app_temp_C>
+				<temp_F>54</temp_F>
+				<dewp_F>41</dewp_F>
+				<app_temp_F>54</app_temp_F>
+				<rh_pct>60</rh_pct>
+				<press_in>30.08</press_in>
+				<press_mb>1018.5</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>night</day_night>
+				<pop>0</pop>
+				<wnd_dir>NW</wnd_dir>
+				<wnd_spd_kph>20</wnd_spd_kph>
+				<wnd_spd_mph>13</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Tuesday</day_of_week_local>
+				<time_local>2015-05-19 23:00:00</time_local>
+				<temp_C>11</temp_C>
+				<dewp_C>5</dewp_C>
+				<app_temp_C>11</app_temp_C>
+				<temp_F>51</temp_F>
+				<dewp_F>41</dewp_F>
+				<app_temp_F>51</app_temp_F>
+				<rh_pct>67</rh_pct>
+				<press_in>30.09</press_in>
+				<press_mb>1018.9</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>night</day_night>
+				<pop>0</pop>
+				<wnd_dir>NW</wnd_dir>
+				<wnd_spd_kph>20</wnd_spd_kph>
+				<wnd_spd_mph>13</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 00:00:00</time_local>
+				<temp_C>10</temp_C>
+				<dewp_C>5</dewp_C>
+				<app_temp_C>10</app_temp_C>
+				<temp_F>49</temp_F>
+				<dewp_F>41</dewp_F>
+				<app_temp_F>49</app_temp_F>
+				<rh_pct>72</rh_pct>
+				<press_in>30.10</press_in>
+				<press_mb>1019.3</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>night</day_night>
+				<pop>0</pop>
+				<wnd_dir>NW</wnd_dir>
+				<wnd_spd_kph>20</wnd_spd_kph>
+				<wnd_spd_mph>13</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 01:00:00</time_local>
+				<temp_C>9</temp_C>
+				<dewp_C>5</dewp_C>
+				<app_temp_C>9</app_temp_C>
+				<temp_F>48</temp_F>
+				<dewp_F>40</dewp_F>
+				<app_temp_F>48</app_temp_F>
+				<rh_pct>74</rh_pct>
+				<press_in>30.11</press_in>
+				<press_mb>1019.7</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>night</day_night>
+				<pop>0</pop>
+				<wnd_dir>NNW</wnd_dir>
+				<wnd_spd_kph>20</wnd_spd_kph>
+				<wnd_spd_mph>13</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 02:00:00</time_local>
+				<temp_C>9</temp_C>
+				<dewp_C>4</dewp_C>
+				<app_temp_C>9</app_temp_C>
+				<temp_F>47</temp_F>
+				<dewp_F>40</dewp_F>
+				<app_temp_F>47</app_temp_F>
+				<rh_pct>74</rh_pct>
+				<press_in>30.12</press_in>
+				<press_mb>1020.0</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>night</day_night>
+				<pop>0</pop>
+				<wnd_dir>NNW</wnd_dir>
+				<wnd_spd_kph>20</wnd_spd_kph>
+				<wnd_spd_mph>13</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 03:00:00</time_local>
+				<temp_C>8</temp_C>
+				<dewp_C>4</dewp_C>
+				<app_temp_C>8</app_temp_C>
+				<temp_F>46</temp_F>
+				<dewp_F>40</dewp_F>
+				<app_temp_F>46</app_temp_F>
+				<rh_pct>77</rh_pct>
+				<press_in>30.13</press_in>
+				<press_mb>1020.2</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>night</day_night>
+				<pop>0</pop>
+				<wnd_dir>NNW</wnd_dir>
+				<wnd_spd_kph>23</wnd_spd_kph>
+				<wnd_spd_mph>14</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 04:00:00</time_local>
+				<temp_C>7</temp_C>
+				<dewp_C>4</dewp_C>
+				<app_temp_C>3</app_temp_C>
+				<temp_F>45</temp_F>
+				<dewp_F>39</dewp_F>
+				<app_temp_F>38</app_temp_F>
+				<rh_pct>78</rh_pct>
+				<press_in>30.13</press_in>
+				<press_mb>1020.4</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>night</day_night>
+				<pop>0</pop>
+				<wnd_dir>N</wnd_dir>
+				<wnd_spd_kph>24</wnd_spd_kph>
+				<wnd_spd_mph>15</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 05:00:00</time_local>
+				<temp_C>7</temp_C>
+				<dewp_C>4</dewp_C>
+				<app_temp_C>7</app_temp_C>
+				<temp_F>45</temp_F>
+				<dewp_F>39</dewp_F>
+				<app_temp_F>45</app_temp_F>
+				<rh_pct>78</rh_pct>
+				<press_in>30.14</press_in>
+				<press_mb>1020.6</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>night</day_night>
+				<pop>0</pop>
+				<wnd_dir>N</wnd_dir>
+				<wnd_spd_kph>24</wnd_spd_kph>
+				<wnd_spd_mph>15</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 06:00:00</time_local>
+				<temp_C>7</temp_C>
+				<dewp_C>4</dewp_C>
+				<app_temp_C>7</app_temp_C>
+				<temp_F>45</temp_F>
+				<dewp_F>39</dewp_F>
+				<app_temp_F>45</app_temp_F>
+				<rh_pct>80</rh_pct>
+				<press_in>30.14</press_in>
+				<press_mb>1020.8</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>night</day_night>
+				<pop>0</pop>
+				<wnd_dir>N</wnd_dir>
+				<wnd_spd_kph>24</wnd_spd_kph>
+				<wnd_spd_mph>15</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 07:00:00</time_local>
+				<temp_C>6</temp_C>
+				<dewp_C>3</dewp_C>
+				<app_temp_C>2</app_temp_C>
+				<temp_F>42</temp_F>
+				<dewp_F>38</dewp_F>
+				<app_temp_F>35</app_temp_F>
+				<rh_pct>83</rh_pct>
+				<press_in>30.15</press_in>
+				<press_mb>1021.0</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>N</wnd_dir>
+				<wnd_spd_kph>23</wnd_spd_kph>
+				<wnd_spd_mph>14</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 08:00:00</time_local>
+				<temp_C>7</temp_C>
+				<dewp_C>4</dewp_C>
+				<app_temp_C>7</app_temp_C>
+				<temp_F>45</temp_F>
+				<dewp_F>38</dewp_F>
+				<app_temp_F>45</app_temp_F>
+				<rh_pct>76</rh_pct>
+				<press_in>30.16</press_in>
+				<press_mb>1021.3</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>N</wnd_dir>
+				<wnd_spd_kph>20</wnd_spd_kph>
+				<wnd_spd_mph>13</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 09:00:00</time_local>
+				<temp_C>9</temp_C>
+				<dewp_C>3</dewp_C>
+				<app_temp_C>9</app_temp_C>
+				<temp_F>48</temp_F>
+				<dewp_F>37</dewp_F>
+				<app_temp_F>48</app_temp_F>
+				<rh_pct>64</rh_pct>
+				<press_in>30.17</press_in>
+				<press_mb>1021.7</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>N</wnd_dir>
+				<wnd_spd_kph>17</wnd_spd_kph>
+				<wnd_spd_mph>11</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 10:00:00</time_local>
+				<temp_C>10</temp_C>
+				<dewp_C>3</dewp_C>
+				<app_temp_C>10</app_temp_C>
+				<temp_F>50</temp_F>
+				<dewp_F>37</dewp_F>
+				<app_temp_F>50</app_temp_F>
+				<rh_pct>60</rh_pct>
+				<press_in>30.19</press_in>
+				<press_mb>1022.2</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>N</wnd_dir>
+				<wnd_spd_kph>13</wnd_spd_kph>
+				<wnd_spd_mph>8</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 11:00:00</time_local>
+				<temp_C>11</temp_C>
+				<dewp_C>3</dewp_C>
+				<app_temp_C>11</app_temp_C>
+				<temp_F>52</temp_F>
+				<dewp_F>37</dewp_F>
+				<app_temp_F>52</app_temp_F>
+				<rh_pct>55</rh_pct>
+				<press_in>30.19</press_in>
+				<press_mb>1022.5</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>N</wnd_dir>
+				<wnd_spd_kph>12</wnd_spd_kph>
+				<wnd_spd_mph>7</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 12:00:00</time_local>
+				<temp_C>12</temp_C>
+				<dewp_C>2</dewp_C>
+				<app_temp_C>12</app_temp_C>
+				<temp_F>54</temp_F>
+				<dewp_F>36</dewp_F>
+				<app_temp_F>54</app_temp_F>
+				<rh_pct>49</rh_pct>
+				<press_in>30.20</press_in>
+				<press_mb>1022.7</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>N</wnd_dir>
+				<wnd_spd_kph>12</wnd_spd_kph>
+				<wnd_spd_mph>7</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 13:00:00</time_local>
+				<temp_C>13</temp_C>
+				<dewp_C>2</dewp_C>
+				<app_temp_C>13</app_temp_C>
+				<temp_F>55</temp_F>
+				<dewp_F>36</dewp_F>
+				<app_temp_F>55</app_temp_F>
+				<rh_pct>48</rh_pct>
+				<press_in>30.20</press_in>
+				<press_mb>1022.6</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>N</wnd_dir>
+				<wnd_spd_kph>13</wnd_spd_kph>
+				<wnd_spd_mph>8</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 14:00:00</time_local>
+				<temp_C>13</temp_C>
+				<dewp_C>2</dewp_C>
+				<app_temp_C>13</app_temp_C>
+				<temp_F>55</temp_F>
+				<dewp_F>36</dewp_F>
+				<app_temp_F>55</app_temp_F>
+				<rh_pct>49</rh_pct>
+				<press_in>30.19</press_in>
+				<press_mb>1022.3</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>N</wnd_dir>
+				<wnd_spd_kph>13</wnd_spd_kph>
+				<wnd_spd_mph>8</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 15:00:00</time_local>
+				<temp_C>13</temp_C>
+				<dewp_C>2</dewp_C>
+				<app_temp_C>13</app_temp_C>
+				<temp_F>56</temp_F>
+				<dewp_F>35</dewp_F>
+				<app_temp_F>56</app_temp_F>
+				<rh_pct>44</rh_pct>
+				<press_in>30.17</press_in>
+				<press_mb>1021.7</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>N</wnd_dir>
+				<wnd_spd_kph>13</wnd_spd_kph>
+				<wnd_spd_mph>8</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 16:00:00</time_local>
+				<temp_C>13</temp_C>
+				<dewp_C>2</dewp_C>
+				<app_temp_C>13</app_temp_C>
+				<temp_F>56</temp_F>
+				<dewp_F>35</dewp_F>
+				<app_temp_F>56</app_temp_F>
+				<rh_pct>45</rh_pct>
+				<press_in>30.15</press_in>
+				<press_mb>1021.0</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>N</wnd_dir>
+				<wnd_spd_kph>12</wnd_spd_kph>
+				<wnd_spd_mph>7</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 17:00:00</time_local>
+				<temp_C>13</temp_C>
+				<dewp_C>2</dewp_C>
+				<app_temp_C>13</app_temp_C>
+				<temp_F>56</temp_F>
+				<dewp_F>35</dewp_F>
+				<app_temp_F>56</app_temp_F>
+				<rh_pct>45</rh_pct>
+				<press_in>30.12</press_in>
+				<press_mb>1020.1</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>N</wnd_dir>
+				<wnd_spd_kph>10</wnd_spd_kph>
+				<wnd_spd_mph>6</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 18:00:00</time_local>
+				<temp_C>14</temp_C>
+				<dewp_C>1</dewp_C>
+				<app_temp_C>14</app_temp_C>
+				<temp_F>57</temp_F>
+				<dewp_F>34</dewp_F>
+				<app_temp_F>57</app_temp_F>
+				<rh_pct>40</rh_pct>
+				<press_in>30.10</press_in>
+				<press_mb>1019.3</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>N</wnd_dir>
+				<wnd_spd_kph>7</wnd_spd_kph>
+				<wnd_spd_mph>4</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 19:00:00</time_local>
+				<temp_C>13</temp_C>
+				<dewp_C>1</dewp_C>
+				<app_temp_C>13</app_temp_C>
+				<temp_F>56</temp_F>
+				<dewp_F>33</dewp_F>
+				<app_temp_F>56</app_temp_F>
+				<rh_pct>42</rh_pct>
+				<press_in>30.08</press_in>
+				<press_mb>1018.6</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>NW</wnd_dir>
+				<wnd_spd_kph>4</wnd_spd_kph>
+				<wnd_spd_mph>3</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 20:00:00</time_local>
+				<temp_C>12</temp_C>
+				<dewp_C>1</dewp_C>
+				<app_temp_C>12</app_temp_C>
+				<temp_F>54</temp_F>
+				<dewp_F>34</dewp_F>
+				<app_temp_F>54</app_temp_F>
+				<rh_pct>45</rh_pct>
+				<press_in>30.06</press_in>
+				<press_mb>1018.0</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>NW</wnd_dir>
+				<wnd_spd_kph>4</wnd_spd_kph>
+				<wnd_spd_mph>3</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 21:00:00</time_local>
+				<temp_C>12</temp_C>
+				<dewp_C>1</dewp_C>
+				<app_temp_C>12</app_temp_C>
+				<temp_F>53</temp_F>
+				<dewp_F>35</dewp_F>
+				<app_temp_F>53</app_temp_F>
+				<rh_pct>49</rh_pct>
+				<press_in>30.07</press_in>
+				<press_mb>1018.3</press_mb>
+				<wx>Mostly cloudy</wx>
+				<wx_code>103</wx_code>
+				<day_night>night</day_night>
+				<pop>0</pop>
+				<wnd_dir>SSW</wnd_dir>
+				<wnd_spd_kph>4</wnd_spd_kph>
+				<wnd_spd_mph>3</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 22:00:00</time_local>
+				<temp_C>11</temp_C>
+				<dewp_C>2</dewp_C>
+				<app_temp_C>11</app_temp_C>
+				<temp_F>51</temp_F>
+				<dewp_F>35</dewp_F>
+				<app_temp_F>51</app_temp_F>
+				<rh_pct>53</rh_pct>
+				<press_in>30.07</press_in>
+				<press_mb>1018.4</press_mb>
+				<wx>Mostly cloudy</wx>
+				<wx_code>103</wx_code>
+				<day_night>night</day_night>
+				<pop>0</pop>
+				<wnd_dir>SSW</wnd_dir>
+				<wnd_spd_kph>4</wnd_spd_kph>
+				<wnd_spd_mph>3</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Wednesday</day_of_week_local>
+				<time_local>2015-05-20 23:00:00</time_local>
+				<temp_C>10</temp_C>
+				<dewp_C>2</dewp_C>
+				<app_temp_C>10</app_temp_C>
+				<temp_F>50</temp_F>
+				<dewp_F>35</dewp_F>
+				<app_temp_F>50</app_temp_F>
+				<rh_pct>56</rh_pct>
+				<press_in>30.07</press_in>
+				<press_mb>1018.3</press_mb>
+				<wx>Mostly cloudy</wx>
+				<wx_code>103</wx_code>
+				<day_night>night</day_night>
+				<pop>0</pop>
+				<wnd_dir>SSW</wnd_dir>
+				<wnd_spd_kph>4</wnd_spd_kph>
+				<wnd_spd_mph>3</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Thursday</day_of_week_local>
+				<time_local>2015-05-21 00:00:00</time_local>
+				<temp_C>10</temp_C>
+				<dewp_C>2</dewp_C>
+				<app_temp_C>10</app_temp_C>
+				<temp_F>49</temp_F>
+				<dewp_F>36</dewp_F>
+				<app_temp_F>49</app_temp_F>
+				<rh_pct>59</rh_pct>
+				<press_in>30.06</press_in>
+				<press_mb>1018.1</press_mb>
+				<wx>Rain showers</wx>
+				<wx_code>80</wx_code>
+				<day_night>night</day_night>
+				<pop>20</pop>
+				<wnd_dir>WNW</wnd_dir>
+				<wnd_spd_kph>12</wnd_spd_kph>
+				<wnd_spd_mph>7</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Thursday</day_of_week_local>
+				<time_local>2015-05-21 01:00:00</time_local>
+				<temp_C>9</temp_C>
+				<dewp_C>2</dewp_C>
+				<app_temp_C>9</app_temp_C>
+				<temp_F>49</temp_F>
+				<dewp_F>36</dewp_F>
+				<app_temp_F>49</app_temp_F>
+				<rh_pct>61</rh_pct>
+				<press_in>30.06</press_in>
+				<press_mb>1017.8</press_mb>
+				<wx>Rain showers</wx>
+				<wx_code>80</wx_code>
+				<day_night>night</day_night>
+				<pop>20</pop>
+				<wnd_dir>WNW</wnd_dir>
+				<wnd_spd_kph>12</wnd_spd_kph>
+				<wnd_spd_mph>7</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Thursday</day_of_week_local>
+				<time_local>2015-05-21 02:00:00</time_local>
+				<temp_C>9</temp_C>
+				<dewp_C>2</dewp_C>
+				<app_temp_C>9</app_temp_C>
+				<temp_F>48</temp_F>
+				<dewp_F>36</dewp_F>
+				<app_temp_F>48</app_temp_F>
+				<rh_pct>63</rh_pct>
+				<press_in>30.04</press_in>
+				<press_mb>1017.4</press_mb>
+				<wx>Rain showers</wx>
+				<wx_code>80</wx_code>
+				<day_night>night</day_night>
+				<pop>20</pop>
+				<wnd_dir>WNW</wnd_dir>
+				<wnd_spd_kph>12</wnd_spd_kph>
+				<wnd_spd_mph>7</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Thursday</day_of_week_local>
+				<time_local>2015-05-21 03:00:00</time_local>
+				<temp_C>9</temp_C>
+				<dewp_C>3</dewp_C>
+				<app_temp_C>9</app_temp_C>
+				<temp_F>48</temp_F>
+				<dewp_F>37</dewp_F>
+				<app_temp_F>48</app_temp_F>
+				<rh_pct>65</rh_pct>
+				<press_in>30.03</press_in>
+				<press_mb>1017.0</press_mb>
+				<wx>Mostly cloudy</wx>
+				<wx_code>103</wx_code>
+				<day_night>night</day_night>
+				<pop>0</pop>
+				<wnd_dir>NW</wnd_dir>
+				<wnd_spd_kph>7</wnd_spd_kph>
+				<wnd_spd_mph>4</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Thursday</day_of_week_local>
+				<time_local>2015-05-21 04:00:00</time_local>
+				<temp_C>9</temp_C>
+				<dewp_C>3</dewp_C>
+				<app_temp_C>9</app_temp_C>
+				<temp_F>47</temp_F>
+				<dewp_F>37</dewp_F>
+				<app_temp_F>47</app_temp_F>
+				<rh_pct>67</rh_pct>
+				<press_in>30.02</press_in>
+				<press_mb>1016.6</press_mb>
+				<wx>Mostly cloudy</wx>
+				<wx_code>103</wx_code>
+				<day_night>night</day_night>
+				<pop>0</pop>
+				<wnd_dir>NW</wnd_dir>
+				<wnd_spd_kph>7</wnd_spd_kph>
+				<wnd_spd_mph>4</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Thursday</day_of_week_local>
+				<time_local>2015-05-21 05:00:00</time_local>
+				<temp_C>8</temp_C>
+				<dewp_C>3</dewp_C>
+				<app_temp_C>8</app_temp_C>
+				<temp_F>47</temp_F>
+				<dewp_F>37</dewp_F>
+				<app_temp_F>47</app_temp_F>
+				<rh_pct>68</rh_pct>
+				<press_in>30.02</press_in>
+				<press_mb>1016.5</press_mb>
+				<wx>Mostly cloudy</wx>
+				<wx_code>103</wx_code>
+				<day_night>night</day_night>
+				<pop>0</pop>
+				<wnd_dir>NW</wnd_dir>
+				<wnd_spd_kph>7</wnd_spd_kph>
+				<wnd_spd_mph>4</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Thursday</day_of_week_local>
+				<time_local>2015-05-21 06:00:00</time_local>
+				<temp_C>8</temp_C>
+				<dewp_C>3</dewp_C>
+				<app_temp_C>8</app_temp_C>
+				<temp_F>46</temp_F>
+				<dewp_F>38</dewp_F>
+				<app_temp_F>46</app_temp_F>
+				<rh_pct>72</rh_pct>
+				<press_in>30.02</press_in>
+				<press_mb>1016.5</press_mb>
+				<wx>Mostly cloudy</wx>
+				<wx_code>103</wx_code>
+				<day_night>night</day_night>
+				<pop>0</pop>
+				<wnd_dir>NW</wnd_dir>
+				<wnd_spd_kph>10</wnd_spd_kph>
+				<wnd_spd_mph>6</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Thursday</day_of_week_local>
+				<time_local>2015-05-21 07:00:00</time_local>
+				<temp_C>9</temp_C>
+				<dewp_C>3</dewp_C>
+				<app_temp_C>9</app_temp_C>
+				<temp_F>47</temp_F>
+				<dewp_F>38</dewp_F>
+				<app_temp_F>47</app_temp_F>
+				<rh_pct>68</rh_pct>
+				<press_in>30.02</press_in>
+				<press_mb>1016.7</press_mb>
+				<wx>Mostly cloudy</wx>
+				<wx_code>103</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>NW</wnd_dir>
+				<wnd_spd_kph>10</wnd_spd_kph>
+				<wnd_spd_mph>6</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Thursday</day_of_week_local>
+				<time_local>2015-05-21 08:00:00</time_local>
+				<temp_C>10</temp_C>
+				<dewp_C>3</dewp_C>
+				<app_temp_C>10</app_temp_C>
+				<temp_F>49</temp_F>
+				<dewp_F>38</dewp_F>
+				<app_temp_F>49</app_temp_F>
+				<rh_pct>64</rh_pct>
+				<press_in>30.03</press_in>
+				<press_mb>1017.0</press_mb>
+				<wx>Mostly cloudy</wx>
+				<wx_code>103</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>NW</wnd_dir>
+				<wnd_spd_kph>10</wnd_spd_kph>
+				<wnd_spd_mph>6</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Thursday</day_of_week_local>
+				<time_local>2015-05-21 09:00:00</time_local>
+				<temp_C>12</temp_C>
+				<dewp_C>4</dewp_C>
+				<app_temp_C>12</app_temp_C>
+				<temp_F>53</temp_F>
+				<dewp_F>38</dewp_F>
+				<app_temp_F>53</app_temp_F>
+				<rh_pct>58</rh_pct>
+				<press_in>30.04</press_in>
+				<press_mb>1017.2</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>NW</wnd_dir>
+				<wnd_spd_kph>13</wnd_spd_kph>
+				<wnd_spd_mph>8</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Thursday</day_of_week_local>
+				<time_local>2015-05-21 10:00:00</time_local>
+				<temp_C>14</temp_C>
+				<dewp_C>4</dewp_C>
+				<app_temp_C>14</app_temp_C>
+				<temp_F>57</temp_F>
+				<dewp_F>39</dewp_F>
+				<app_temp_F>57</app_temp_F>
+				<rh_pct>51</rh_pct>
+				<press_in>30.04</press_in>
+				<press_mb>1017.2</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>NW</wnd_dir>
+				<wnd_spd_kph>13</wnd_spd_kph>
+				<wnd_spd_mph>8</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Thursday</day_of_week_local>
+				<time_local>2015-05-21 11:00:00</time_local>
+				<temp_C>16</temp_C>
+				<dewp_C>4</dewp_C>
+				<app_temp_C>16</app_temp_C>
+				<temp_F>60</temp_F>
+				<dewp_F>40</dewp_F>
+				<app_temp_F>60</app_temp_F>
+				<rh_pct>46</rh_pct>
+				<press_in>30.04</press_in>
+				<press_mb>1017.2</press_mb>
+				<wx>Partly cloudy</wx>
+				<wx_code>102</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>NW</wnd_dir>
+				<wnd_spd_kph>13</wnd_spd_kph>
+				<wnd_spd_mph>8</wnd_spd_mph>
+			</hourly_summary>
+			<hourly_summary>
+				<day_of_week_local>Thursday</day_of_week_local>
+				<time_local>2015-05-21 12:00:00</time_local>
+				<temp_C>17</temp_C>
+				<dewp_C>5</dewp_C>
+				<app_temp_C>17</app_temp_C>
+				<temp_F>62</temp_F>
+				<dewp_F>40</dewp_F>
+				<app_temp_F>62</app_temp_F>
+				<rh_pct>44</rh_pct>
+				<press_in>30.03</press_in>
+				<press_mb>1017.1</press_mb>
+				<wx>Mostly clear</wx>
+				<wx_code>101</wx_code>
+				<day_night>day</day_night>
+				<pop>0</pop>
+				<wnd_dir>WNW</wnd_dir>
+				<wnd_spd_kph>14</wnd_spd_kph>
+				<wnd_spd_mph>9</wnd_spd_mph>
+			</hourly_summary>
+		</hourly_summaries>
+	</location>
+</locations>

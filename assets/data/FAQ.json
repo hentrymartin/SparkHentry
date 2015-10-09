@@ -1,0 +1,38 @@
+{
+  "title":"FAQs - Frequently Asked Questions",
+  "desc":"Nam quam purus, blandit a ante at, ultrices interdum augue. Suspendisse nec placerat leo. Suspendisse porta consectetur tempus. Nulla convallis a nisl cursus facilisis.",
+  "questions":[
+    {
+      "title":"How to add a new site link",
+      "desc":"Morbi dictum tristique neque ut porta. Donec sit amet suscipit neque. Aliquam dignissim imperdiet purus eu mattis. Donec dapibus nec libero eu consectetur. Nulla mattis efficitur enim, sed placerat nulla eleifend in. Maecenas convallis nibh ut massa scelerisque ementum. Vivamus laoreet pharetra vestibulum. "
+    },
+    {
+      "title":"How do I activate my Account",
+      "desc":"Morbi dictum tristique neque ut porta. Donec sit amet suscipit neque. Aliquam dignissim imperdiet purus eu mattis. Donec dapibus nec libero eu consectetur. Nulla mattis efficitur enim, sed placerat nulla eleifend in. Maecenas convallis nibh ut massa scelerisque ementum. Vivamus laoreet pharetra vestibulum. "
+    },
+    {
+      "title":"How to Create a Bookmark",
+      "desc":"Morbi dictum tristique neque ut porta. Donec sit amet suscipit neque. Aliquam dignissim imperdiet purus eu mattis. Donec dapibus nec libero eu consectetur. Nulla mattis efficitur enim, sed placerat nulla eleifend in. Maecenas convallis nibh ut massa scelerisque ementum. Vivamus laoreet pharetra vestibulum. "
+    },
+    {
+      "title":"How to add Spark to Homescreen",
+      "desc":"Morbi dictum tristique neque ut porta. Donec sit amet suscipit neque. Aliquam dignissim imperdiet purus eu mattis. Donec dapibus nec libero eu consectetur. Nulla mattis efficitur enim, sed placerat nulla eleifend in. Maecenas convallis nibh ut massa scelerisque ementum. Vivamus laoreet pharetra vestibulum. "
+    },
+    {
+      "title":"Lorem ipsum question here",
+      "desc":"Morbi dictum tristique neque ut porta. Donec sit amet suscipit neque. Aliquam dignissim imperdiet purus eu mattis. Donec dapibus nec libero eu consectetur. Nulla mattis efficitur enim, sed placerat nulla eleifend in. Maecenas convallis nibh ut massa scelerisque ementum. Vivamus laoreet pharetra vestibulum. "
+    },
+    {
+      "title":"Lorem ipsum question here",
+      "desc":"Morbi dictum tristique neque ut porta. Donec sit amet suscipit neque. Aliquam dignissim imperdiet purus eu mattis. Donec dapibus nec libero eu consectetur. Nulla mattis efficitur enim, sed placerat nulla eleifend in. Maecenas convallis nibh ut massa scelerisque ementum. Vivamus laoreet pharetra vestibulum. "
+    },
+    {
+      "title":"Lorem ipsum question here",
+      "desc":"Morbi dictum tristique neque ut porta. Donec sit amet suscipit neque. Aliquam dignissim imperdiet purus eu mattis. Donec dapibus nec libero eu consectetur. Nulla mattis efficitur enim, sed placerat nulla eleifend in. Maecenas convallis nibh ut massa scelerisque ementum. Vivamus laoreet pharetra vestibulum. "
+    },
+    {
+      "title":"Lorem ipsum question here",
+      "desc":"Morbi dictum tristique neque ut porta. Donec sit amet suscipit neque. Aliquam dignissim imperdiet purus eu mattis. Donec dapibus nec libero eu consectetur. Nulla mattis efficitur enim, sed placerat nulla eleifend in. Maecenas convallis nibh ut massa scelerisque ementum. Vivamus laoreet pharetra vestibulum. "
+    }
+  ]
+}

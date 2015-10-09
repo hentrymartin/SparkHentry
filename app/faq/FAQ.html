@@ -1,0 +1,26 @@
+<div data-ng-swipe-left="vm.goHome()" class="main-content">
+
+    <div data-ng-include="'app/layouts/Header.html'"></div>
+    <!--include header-->
+
+    <div class="faq">
+        <h2 class="faq-title">{{vm.FAQDetails.title}}</h2>
+        <!--End .title-->
+        <p class="desc">{{vm.FAQDetails.desc}}</p>
+        <!--End .desc-->
+
+        <div class="related-faqs" data-accordion data-close-others="false">
+            <div class="{{$index%2===1?'alt':''}}" data-ng-init="status.open = $first" data-is-open="status.open" data-accordion-group data-ng-repeat="faq in vm.FAQDetails.questions">
+                <div data-accordion-heading>
+                    {{faq.title}} <i data-ng-class="{'open': status.open}"></i>
+                </div>
+                {{faq.desc}}
+            </div>
+        </div>
+        <!--End related-faq-->
+    </div>
+
+    <div data-ng-swipe-left="vm.goHome()" data-ng-include="'app/layouts/Footer.html'"></div>
+    <!--include footer-->
+
+</div>

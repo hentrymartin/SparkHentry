@@ -1,0 +1,25 @@
+{
+  "name": "Spark Mobile",
+  "version": "0.0.0",
+  "authors": [
+    "dileepa"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-animate": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "angular-bootstrap": "~0.13.0",
+    "angular-sanitize": "~1.4.0",
+    "angular-touch": "~1.4.0",
+    "bootstrap": "~3.3.4",
+    "angularjs": "~1.4.0",
+    "abdmob/x2js" : "~1.1.5"
+  }
+}

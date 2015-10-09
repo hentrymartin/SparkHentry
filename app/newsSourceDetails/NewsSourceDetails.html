@@ -1,0 +1,56 @@
+<div class="main-content">
+
+    <div data-ng-swipe-left="vm.goHome()" data-ng-include="'app/layouts/Header.html'"></div>
+    <!--include header-->
+
+    <div data-ng-swipe-left="vm.goHome()" class="news-logo">
+        <img ng-src="{{vm.selectedItem.icon}}" src="assets/i/top-news-icon.jpg" alt="logo">
+    </div>
+    <!--End .logo-->
+
+    <section class="section">
+        <h5>TOP VIDEO STORIES</h5>
+
+        <div class="video-holder">
+            <div class="scroller">
+                <div class="video" data-ng-repeat="video in vm.topVideo">
+                    <img src="assets/i/video-placeholder.jpg" data-ng-src="{{video.img}}" alt="video"/>
+                    <span class="title">{{video.name}}</span>
+                </div>
+
+            </div>
+            <!--End video-holder-->
+        </div>
+
+        <div class="see-all">
+            <a href="javascript:">SEE ALL VIDEO STORIES</a>
+        </div>
+        <!--End see-all-->
+
+    </section>
+    <!--End section-->
+
+    <section data-ng-swipe-left="vm.goHome()" class="section">
+        <h5>TOP NEWS</h5>
+
+        <ul class="top-news">
+            <li  data-ng-repeat="news in vm.newsDetails | limitTo:vm.storyLimit track by $index" ng-if="news.title">
+                <a href="#/storyDetails/{{vm.selectedItem.id}}/{{$index}}">
+                    <img data-ng-src="{{news.enclosure_asArray[0]._u}}" src="assets/i/top-news-icon.jpg" alt="icon"/>
+                    <div class="desc" data-ng-bind-html="vm.getTrustedHtml(news.title)">Description</div>
+                </a>
+            </li>
+        </ul>
+
+        <div class="see-all">
+            <a href="javascript:" data-ng-click="vm.seeAllStories()">SEE ALL NEWS STORIES</a>
+        </div>
+        <!--End see-all-->
+
+    </section>
+    <!--End section-->
+
+    <div data-ng-swipe-left="vm.goHome()" data-ng-include="'app/layouts/Footer.html'"></div>
+    <!--include footer-->
+
+</div>

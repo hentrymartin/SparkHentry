@@ -1,0 +1,37 @@
+<news_feeds>
+    <news>	
+		<id>2295</id>	
+		<name>All You</name>
+		<icon>assets/i/2295.png</icon>
+		<source>assets/data/newsfeedSource/2295.xml</source>
+		<status>read</status>
+	</news>	
+	<news>	
+		<id>2276</id>	
+		<name>Cooking Light</name>
+		<icon>assets/i/2276.png</icon>
+		<source>assets/data/newsfeedSource/2276.xml</source>
+		<status>unread</status>
+	</news>
+	<news>	
+		<id>2339</id>	
+		<name>Entertainment</name>
+		<icon>assets/i/2339.png</icon>
+		<source>assets/data/newsfeedSource/2339.xml</source>
+		<status>unread</status>
+	</news>
+	<news>	
+		<id>2280</id>	
+		<name>Entertainment Weekly</name>
+		<icon>assets/i/2280.png</icon>
+		<source>assets/data/newsfeedSource/2280.xml</source>
+		<status>read</status>
+	</news>
+	<news>	
+		<id>2311</id>
+		<name>Golf</name>
+		<icon>assets/i/2311.png</icon>
+		<source>assets/data/newsfeedSource/2311.xml</source>
+		<status>read</status>
+	</news>
+</news_feeds>

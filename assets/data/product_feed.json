@@ -1,0 +1,122 @@
+{
+	"_comment": "request = http://localhost:80/app_list/?platform=android&make=Coolpad&version=102020&app=web&osVer=1&api_ver=2&model=5560S",
+	"displayType": "GRID",
+	"features": [
+		{
+			"action": "web",
+			"img": "assets/i/big_fish.png",
+			"packageName": "com.selfawaregames.acecasino",
+			"uri": "market://details?id=com.selfawaregames.acecasino",
+			"title": "Big Fish Casino",
+			"slot": -1,
+			"big_image": "",
+			"category": "game",
+			"altId": "com.selfawaregames.acecasino",
+			"priority": 0,
+			"displayTimer": 0,
+		  	"rating" : 3
+		},
+		{
+			"action": "web",
+			"img": "assets/i/soda.png",
+			"packageName": "com.king.candycrushsodasaga",
+			"uri": "market://details?id=com.king.candycrushsodasaga",
+			"title": "Candy Crush 2",
+			"slot": -1,
+			"big_image": "/qa/item_tile-198-big_image-en-1428938858.png",
+			"category": "game",
+			"altId": "com.king.candycrushsodasaga",
+			"priority": 9,
+			"displayTimer": 0,
+		  	"rating" : 4
+		},
+		{
+			"action": "web",
+			"img": "assets/i/wallgreens.png",
+			"packageName": "com.usablenet.mobile.walgreen",
+			"uri": "market://details?id=com.usablenet.mobile.walgreen",
+			"title": "Walgreens",
+			"slot": -1,
+			"big_image": "/qa/item_tile-199-big_image-en-1428950730.png",
+			"category": "app",
+			"altId": "com.usablenet.mobile.walgreen",
+			"priority": 11,
+			"displayTimer": 0,
+		  	"rating" : 2
+		},
+		{
+			"action": "web",
+			"img": "assets/i/panda.png",
+			"packageName": "com.sgn.pandapop.gp",
+			"uri": "market://details?id=com.sgn.pandapop.gp",
+			"title": "Panda Pop",
+			"slot": -1,
+			"big_image": "/qa/item_tile-189-big_image-en-1428952021.png",
+			"category": "game",
+			"altId": "com.sgn.pandapop.gp",
+			"priority": 12,
+			"displayTimer": 0,
+		  	"rating" : 5
+		},
+		{
+			"action": "web",
+			"img": "assets/i/western_union.png",
+			"packageName": "com.westernunion.android.mtapp",
+			"uri": "market://details?id=com.westernunion.android.mtapp",
+			"title": "Western Union",
+			"slot": -1,
+			"big_image": "",
+			"category": "app",
+			"altId": "com.westernunion.android.mtapp",
+			"priority": 3,
+			"displayTimer": 0,
+		  	"rating" : 4
+		},
+		{
+			"action": "web",
+			"img": "assets/i/lifelock.png",
+			"packageName": "com.lifelock.wallet",
+			"uri": "market://details?id=com.lifelock.wallet",
+			"title": "LifeLock Wallet",
+			"slot": -1,
+			"big_image": "",
+			"category": "app",
+			"altId": "com.lifelock.wallet",
+			"priority": 4,
+			"displayTimer": 0,
+		  	"rating" : 1
+		},
+		{
+			"action": "web",
+			"img": "assets/i/match.png",
+			"packageName": "com.match.android.matchmobile",
+			"uri": "market://details?id=com.match.android.matchmobile",
+			"title": "Match.com",
+			"slot": -1,
+			"big_image": "",
+			"category": "game",
+			"altId": "com.match.android.matchmobile",
+			"priority": 5,
+			"displayTimer": 0,
+		  	"rating" : 3
+		}
+	],
+	"flurryKey": "FLURRY-KEY",
+	"minVersion": 0,
+	"refreshTimer": 1440,
+	"updateApk": {
+		"url": "",
+		"size": 0,
+		"version": 102016
+	},
+	"usageCallInterval": 10080,
+	"widgetTheme": {
+		"background": "",
+		"title_icon": "",
+		"title_color": "#ffffff",
+		"item_color": "#ffffff",
+		"title_shadow": "#000000",
+		"item_shadow": "#000000",
+		"title": null
+	}
+}
